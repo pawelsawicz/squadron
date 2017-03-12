@@ -20,9 +20,9 @@ Standard configuration
 {    
     "url" : "http://localhost:9999/users",
     "verb" : "get",
-    "headers" : {[
+    "headers" : [
         "Accept": "application/json"
-    ]} 
+    ] 
 }
 ```
 
@@ -37,8 +37,8 @@ Advance configuration
     },
     "url" : "http://localhost:9999/users",
     "verb" : "get",
-    "headers" : {[
+    "headers" : [
         "Accept": "application/json"
-    ]} 
+    ] 
 }
 ```

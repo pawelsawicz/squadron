@@ -1,0 +1,3 @@
+- Use Terraform to automate machines
+- Use Nomad to automate schedule your jobs
+- Generate tests based on swagger docs
